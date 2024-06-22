@@ -1,6 +1,6 @@
 # Understanding-JS-Promises
 
-JS Promises is  avery crucial topic in Javascript basically for Advance part of Javascript so here are some example provided for Javascript Promises. 
+JS Promises is  a very crucial topic in Javascript basically for Advance part of Javascript so here are some example provided for Javascript Promises. 
 
 the two of the most important which comes into the picture here are .resolve() and .then() functions
 
